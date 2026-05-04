@@ -1,5 +1,5 @@
 #Crear un programa que pregunte tu nombre y edad, debe decir bienvenido con su nombre
-#Autor: Britany Toapanta
+#Autor: Britany Toapanta btoapantah@est.ups.edu.ec
 #FECHA: 04/05/2026
 
 def main():
