@@ -5,7 +5,7 @@
 def main():
     nombre = input("Buenos dias, ingresa tu nombre:")
     edad = input("Por favor, ingresa tu edad:")
-    print ("Hola",nombre,",tu edad es", edad, "bienvenido a tu programa favorito")
+    print ("Hola",nombre,",tu edad es", edad, "bienvenido a tu reino")
 
     print(r"""          o  o   o  o
          |\/ \^/ \/|
